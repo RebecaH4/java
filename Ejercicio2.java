@@ -1,4 +1,4 @@
-//Rebe HC
+//Rebe 
 import javax.swing.JOptionPane;
 
 public class Ejercicio2{
